@@ -32,11 +32,11 @@
     };
 
 
-    const normalUser:NormalUser = getUser({name: "Mr. X"});
-    const adminUser : AdminUser = getUser({name:"Mr. Y", role:'admin'}); 
+    // const normalUser:NormalUser = getUser({name: "Mr. X"});
+    // const adminUser : AdminUser = getUser({name:"Mr. Y", role:'admin'}); 
 
 
-console.log(normalUser, adminUser);
+// console.log(normalUser, adminUser);
 
 
 
